@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-rn7&#o1du!56!*-nxj!p(p!b)=_w#j@%p$e*=dd(7y(1#*i@+=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [polls-app-08fq.onrender.com]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "polls-app-08fq.onrender.com"]
 
 
 # Application definition
