@@ -8,6 +8,8 @@ version = "0.1"
 dependencies = [
     "django>=3.0",  # Replace "X.Y" as appropriate
     "gunicorn >= 21.2.0"
+    "dj-database-url >= 1.0"
+    "psycopg2-binary >= 2.9"
 
 ]
 description = "A Django app to conduct web-based polls."
