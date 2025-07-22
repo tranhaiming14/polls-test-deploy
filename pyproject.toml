@@ -10,7 +10,7 @@ dependencies = [
     "gunicorn >= 21.2.0",
     "dj-database-url >= 1.0",
     "psycopg2-binary >= 2.9",
-
+    "whitenoise >= 4.0",
 ]
 description = "A Django app to conduct web-based polls."
 readme = "README.rst"
